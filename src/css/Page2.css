@@ -1,0 +1,17 @@
+.main1{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 127, 127);
+}
+.link2 {
+    text-align: right;
+    border-style: double;
+    border-width: 2px;
+    width: fit-content;
+    margin-left: auto;
+   
+}
+#text1{
+    text-decoration: line-through;
+}
+ 
